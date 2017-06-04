@@ -1,0 +1,8 @@
+---
+layout: default
+img: services-256.png
+category: Services
+title: Working With Us
+description: |
+---
+  If you are a business or service provider and would like to explore ways of working with Woodlawn’s businesses or organizations, we would be happy to talk with you. The Woodlawn Chamber seeks to develop community strength and the economic vitality by partnering with organizations that can help Woodlawn businesses thrive. Please email us at board@woodlawnchamberchicago.org.
