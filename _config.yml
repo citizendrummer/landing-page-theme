@@ -2,14 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://www.woodlawnchamberchicago.org
 title: Woodlawn Chamber of Commerce
-email: your-email@domain.com
-author: Your Name
+email: board@woodlawnchamberchicago.org
+author: 
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+  The Woodlawn Chamber of Commerce is a business advocacy, education and support organization that works in partnership with its members, residents and local officials to increase economic development and competitiveness for the Woodlawn community.
 copyright: 'Copyright &copy; 2017 Woodlawn Chamber of Commerce. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
