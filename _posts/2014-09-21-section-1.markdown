@@ -7,11 +7,41 @@ description: |
 ---
   Membership in the Woodlawn Chamber is open to businesses within our neighborhood. In addition, membership is available to all individuals who support the mission of the Chamber.
   
-  *Membership is free for businesses located in Woodlawn during our inaugural year 2017.*
+  <h3>Membership Dues</h3>
+  + 1-5 Employees: $100
+  + 6-20 Employees: $150
+  + 21-50 Employees: $250
+  + Corporate or 50+: $500
+  + Individual: $25 
   
-  If you are a business or individual located outside of Woodlawn, contact the Chamber’s board (board@woodlawnchamberchicago.org) to discuss how you can partner with the Chamber in order to develop your business.
+
+  <h3>Why Join the Chamber</h3>
+  + Website links for your business
+  + Webpage recognition of level
+  + Name listed on Chamber event program
+  + Establish a communication network for emerging Woodlawn opportunities
+  + Develop insights into accessing capital
+  + Get marketing and technical assitance to nurture your business
+  + Help build the Woodlawn neighborhood
+  
+
+  <h3>Membership Benefits</h3>
+  + Newsletter
+  + Window Decal Program
+  + Business Directory
+  + Obama Library Updates
+  + Quarterly networking events to give you direct access to principals, decision makers and entrepreneurial leaders directly involved in growing and promoting Woodlawn businesses.
+
+  
+  <br/>
   
   <a href="https://woodlawnchamberchicago.wufoo.com/forms/m1l033ds0fnmvwv/" class="btn btn-primary btn-lg"><i class="fa fa-check-square fa-fw"></i> <span class="network-name">Join</span></a>
+  
+  <br/>
+  
+  *If you are a business or individual located outside of Woodlawn, contact the Chamber’s board (board@woodlawnchamberchicago.org) to discuss how you can partner with the Chamber in order to develop your business.*
+  
+  
   
   
   
